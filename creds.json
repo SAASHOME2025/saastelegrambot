@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "magnificent-pen-432719-u5",
+  "private_key_id": "9a31c95499d38f6c906b53219c84a20d7981460d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoD5Api8dmwn+U\njO1R7tQHPAFOHzll9SJkb6Qlk9BjaaB+fJbytVQA2oSGmbsLSmnzcY3SVSpMCm/y\nexojXN07fxOTAbv9ZHoFksM4f/JUhfP54xY+N+H3juT3f1JUpOwROgJUwUeclEa2\nEVlrZB/4OSC/swUQN7QbtCg37d3FT8QFC6JRRI5nr0noz1LbMlM0cElb2PZrH5cL\nYaMsO2+2PXo2Jn3lByMxfZFKxomzQvq3eyjugvlp/sU4pohSRR4yDO3WX9OqT5dk\nhGFV+5PQhr2ZI+zkPrKQRIZ0qYbg88IayfyXxBPE6la75y/0l25Qj1OdcPUa+yz/\nEhwIqDCXAgMBAAECggEAKf3e9VWg0Hxzf5r8uq2/2ktGZS+LQGLaRVhaWJ5lwAd2\nDk1XNzYOrFTeVEjvKrzdbTroEd5tV/MvjK4v7aQ5ODHnhdtzfAe5eNa00r18SUUv\n/9DSzpFoJ1bJIev9Juns+bUIhPOwlKnUHdAH4UHt8wnLXkTzrpqV0cmI2Y4GalSL\niPwZ+LzEsc9BRnjdndGS0yd+YFVU0AHBNf7Mqv5TaBnsYtToci7182RIk8qK66FB\n6nnVlTPv2Q8aMkTweShKAPy8gTBadmoA1VGD6+8x9KlkzCSmlZWmwFGi8ZiXzO3t\nNOXnkUWpE3D7fXXdYPdxQhRO6PZNMxBWas3rk+bGeQKBgQD3FyHmEBb2Fsjyf6VJ\nDaIIhLzqqzMz2cUIGnM6Eblhglgp8VyWB7u/e6lSv9+49L/HIsJQVabJ6sD9lS9k\n23Tt1QZ6/fEID9psi6PBmP2oUsXxDX6Cel11RbmVmstEZBFuv+NBTNRaDZi8t3yn\nqxcoMi7LvlMdjGr7cAbdEwxCawKBgQDwbbG31S8eSz69AUjc0pFV6t0bjunSFN73\n2/hZDBwR6A22v1Tl9npLi/0LW7W7m1ft7O6Nn+3tztVmuf/PrtYqP5CHqCrY11gx\nOt/zGPMsBI5ns3xtieNkD+HuQW5Smh5mNE0m21kxIhCrYp0zUwvfPtToCSRQi0U7\ns5rgoM7NhQKBgGJW14v7zVel29X/jWXUwi9HvPRcrKUvP6ao+EEdOr2fJb2TrPid\nHVDpQ4uGh+DRr93ubI2SeS4Vezexf0pRuWjKhqi+loZR4Omgbc0oOZQbVWJJr5b4\nYmfBF0p+b/XJKdL9FdIwZLduf+Jj2H3WrwG1b0BxgBzbfNyTSngEE7X/AoGBAKU8\nroRKRpzKV+7r4BiruujShm13NemFIIw2KKOCeBQyaKJtMrrtP7WGGz3gJLEwHSlO\nydCZ1pq2qOF1+YLRhSz6DKm/ANuQfHMxJFLdldptszVAHMbnmljdtYfafijU9QmG\n7nNDEzR6VfyDxMhOTf17IDXseoHEhat3T30L57VFAoGAQmlsmWmtKTuofbOVMkK7\nOks/3sqPewjVhwMxbvQOa6cpmI2dHV27soaaTQNMYn9HoE7UVCa3SSc7SjPO7tiY\nymCkKOrKt8+xawO8uyUg/5zIVJOlpVOvWE1U6jUGM67jReOgEfsYKmD4FhmTL6+6\nfif9eNyIYZg3slqSOHTs3WA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "umiko-bot-sa@magnificent-pen-432719-u5.iam.gserviceaccount.com",
+  "client_id": "111656843903794500674",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/umiko-bot-sa%40magnificent-pen-432719-u5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
